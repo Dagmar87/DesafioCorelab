@@ -52,7 +52,7 @@ Esse projeto consiste em apenas uma unica entidade (tabela) que será usada: Vei
 
 Atributos:
 
-- id: number; -> Chave Primaria
+- id: number; --> Chave Primaria
 - name (nome): string;
 - description (descrição): string;
 - plate (placa): string;
